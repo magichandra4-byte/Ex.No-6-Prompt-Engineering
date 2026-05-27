@@ -13,6 +13,7 @@ Analyze the response and the Output.
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
 Program:
+```
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
 
@@ -58,7 +59,7 @@ Sentiment Analysis:
 {'neg': 0.237, 'neu': 0.598, 'pos': 0.164, 'compound': -0.1184}
 
 Insight: The review tone is neutral or negative.
-
+```
 Result:
 The program is executed successfully
 
